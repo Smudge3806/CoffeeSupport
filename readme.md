@@ -1,6 +1,7 @@
 ## CoffeeSupport ##
 
 @author Chris Smith chris@cj-dev.co.uk
+@author Ian Richards user:HardCode37
 
 @version 1 - BASH Client
 
@@ -66,8 +67,5 @@ Structure of commands should be as follows:
     * ``` page 246 -rm ```
   * Should prompt to authenticate
     * ``` Please Authenticate this action: <password> ```
-
-~~~
-
 
 # More To Come #
