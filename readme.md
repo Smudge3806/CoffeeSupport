@@ -1,6 +1,7 @@
 ## CoffeeSupport ##
 
 @author Chris Smith chris@cj-dev.co.uk
+
 @author Ian Richards user:HardCode37
 
 @version 1 - BASH Client
